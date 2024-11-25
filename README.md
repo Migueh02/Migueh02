@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&&color=F70000&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;" />
 </h1>
 <h1 align="center">
-<img src=banner2.png />
+<img src=banner.png />
 </h1>
 
 <h3 align="center">A passionate software developer from Colombia 🇨🇴</h3>
