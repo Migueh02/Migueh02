@@ -5,22 +5,40 @@
 <img src=banner.png />
 </h1>
 
-<h3 align="center">A passionate software developer from Colombia 🇨🇴</h3>
+<h3 align="center"> Tecnólogo en formación en Desarrollo de Software, enfocado en el desarrollo web. Poseo conocimientos en lenguajes como Python, JavaScript y PHP, así como en frameworks como Django. Experiencia en el manejo de bases de datos relacionales como MySQL y PostgreSQL, además de bases de datos NoSQL como MongoDB. Apasionado por aprender y aplicar tecnologías para crear soluciones innovadoras y eficientes. </h3>
 
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 
-<h2 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Habilidades <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"></h2>
+<h2 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Tecnologias <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"></h2>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=,bootstrap,html,css,vscode,github,git,python,javascript,mysql" />
-
+    <img src="https://skillicons.dev/icons?i=html,css,git" />
+    <img src="https://skillicons.dev/icons?i=python,javascript,php" />
+    <img src="https://skillicons.dev/icons?i=django,vuejs,nodejs" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" />
+    <img src="https://skillicons.dev/icons?i=linux,arch" />
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Contactame 🤝 </h3>
 
+<p align="center">
+
+ <div align="center"  class="icons-social" style="margin-left: 10px;">
+        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/saurabhmchavan/">
+			<img src="https://skillicons.dev/icons?i=linkedin"></a>
+	   <a style="margin-left: 10px;" target="_blank" href="https://dev.to/100rabhcsmc">
+					<img src="https://skillicons.dev/icons?i=discord"></a>
+		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/100rabhcsmc">
+			<img src="https://img.icons8.com/?size=60&id=6Fsj3rv2DCmG&format=png" padding-hight="10"></a>
+      </div>
+
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <div id="user-content-toc">
   <ul align="center">
