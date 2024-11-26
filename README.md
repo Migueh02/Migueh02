@@ -5,7 +5,7 @@
 <img src=banner.png />
 </h1>
 
-<h3 align="center"> Tecnólogo en formación en Desarrollo de Software, enfocado en el desarrollo web. Poseo conocimientos en lenguajes como Python, JavaScript y PHP, así como en frameworks como Django. Experiencia en el manejo de bases de datos relacionales como MySQL y PostgreSQL, además de bases de datos NoSQL como MongoDB. Apasionado por aprender y aplicar tecnologías para crear soluciones innovadoras y eficientes. </h3>
+<h5 align="center"> Tecnólogo en formación en Desarrollo de Software, enfocado en el desarrollo web. Poseo conocimientos en lenguajes como Python, JavaScript y PHP, así como en frameworks como Django. Experiencia en el manejo de bases de datos relacionales como MySQL y PostgreSQL, además de bases de datos NoSQL como MongoDB. Apasionado por aprender y aplicar tecnologías para crear soluciones innovadoras y eficientes. </h5>
 
 
 
