@@ -17,7 +17,7 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,git" />
     <img src="https://skillicons.dev/icons?i=python,javascript,php" />
-    <img src="https://skillicons.dev/icons?i=django,vuejs,nodejs" />
+    <img src="https://skillicons.dev/icons?i=django,nodejs" />
     <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" />
     <img src="https://skillicons.dev/icons?i=linux,arch" />
 
