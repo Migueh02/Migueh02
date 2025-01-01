@@ -1,9 +1,10 @@
-  # Hola 👋, Soy Migueh. 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+# Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">, Soy Migueh!
 
 <img align="right" width=300px alt="Unicorn" src="peet.png" />
 
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Sobre mi***
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35px></picture> *Sobre mi*
 
 Soy un Desarrollo de Software con una sólida base en Python, JavaScript, SQL. Disfruto aprender y crear proyectos innovadores, productivos y creativos que resuelvan problemas del mundo real
 
@@ -26,7 +27,7 @@ Soy un Desarrollo de Software con una sólida base en Python, JavaScript, SQL. D
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">⚙️ &nbsp;GitHub Analytics</h2></summary>  
+    <summary><h2 style="display: inline-block"><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> &nbsp;GitHub Analytics</h2></summary>  
   </ul>
 </div>
 
@@ -56,4 +57,4 @@ Soy un Desarrollo de Software con una sólida base en Python, JavaScript, SQL. D
 </p> 
 
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<br><br><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
