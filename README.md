@@ -1,23 +1,28 @@
-# Hi there 👋, Bhargavi here. 
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Bhargavi-hash.repoName) [![GitHub followers](https://img.shields.io/github/followers/Bhargavi-hash.svg?style=social&label=Follow)](https://github.com/Bhargavi-hash?tab=followers)<br/>
-
-<!--
-**Bhargavi-hash/Bhargavi-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+  # Hola 👋, Soy Migueh. 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <img align="right" width=300px alt="Unicorn" src="peet.png" />
 
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Sobre mi***
 
-I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad. C, C++, Python, Javascript, HTML, and Shell are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
-* **I am interested in Web designing, Android development, and digital marketing**
-- 🌱 I’m currently learning ...
-  - Java
-  - React js
-- 👯 I’m looking forward to collaborate on open source projects.
-- ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
-- Outside tech, 📖 I love to read novels, 🖌️ do painting and skecthing, 🎵 listen to music, and 🌴 explore nature outdoors.
-- 📫 Reach out to me at: <a href="bhargavi.kurukunda@students.iiit.ac.in">bhargavi.kurukunda@students.iiit.ac.in</a>
+Soy un Desarrollo de Software con una sólida base en Python, JavaScript, SQL. Disfruto aprender y crear proyectos innovadores, productivos y creativos que resuelvan problemas del mundo real
+
+- 💡 Me apasiona explorar tecnologías innovadoras y desarrollar soluciones de software que generen impacto.  
+- 🎓 Estudiando Tecnología en Desarrollo de Software, ampliando constantemente mis conocimientos y habilidades.  
+- 🌱 Estoy enfocado en aprender más sobre desarrollo back-end e integración en la nube.  
+- ✍️ En mi tiempo libre, trabajo en pequeños proyectos, escribo artículos técnicos y mejoro mis habilidades.  
+- 💬 No dudes en contactarme para colaborar.  
+- ✉️ Puedes escribirme a [linaresmiguel2039@gmail.com]. ¡Haré todo lo posible por responderte pronto!  
+- 📄 Revisa mis repositorios en GitHub para ver mis proyectos y el trabajo que estoy desarrollando. ¡Siempre estoy abierto a comentarios y sugerencias!
+  
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+<h2 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Tecnologias <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"></h2>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,git,python,javascript,django,nodejs,mysql,postgresql,mongodb,linux,aws" />
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 __Check out my GitHub repository:__
 
