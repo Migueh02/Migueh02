@@ -10,7 +10,7 @@ Soy un Desarrollo de Software con una sólida base en Python, JavaScript, SQL. D
 
 - 💡 Me apasiona explorar tecnologías innovadoras y desarrollar soluciones.  
 - 🎓 Estudiando en Desarrollo de Software, ampliando mis conocimientos y habilidades.  
-- 🌱 Estoy enfocado en aprender más sobre desarrollo back-end e integración en la nube.  
+- 🌱 Enfocado en aprender más sobre desarrollo back-end e integración en la nube.  
 - ✍️ En mi tiempo libre, trabajo en pequeños proyectos, mejorando mis habilidades.  
 - 💬 No dudes en contactarme para colaborar.  
 - ✉️ Puedes escribirme a [linaresmiguel2039@gmail.com].
