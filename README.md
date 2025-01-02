@@ -8,12 +8,12 @@
 
 Soy un Desarrollo de Software con una sólida base en Python, JavaScript, SQL. Disfruto aprender y crear proyectos innovadores, productivos y creativos que resuelvan problemas del mundo real
 
-- 💡 Me apasiona explorar tecnologías innovadoras y desarrollar soluciones de software que generen impacto.  
-- 🎓 Estudiando Tecnología en Desarrollo de Software, ampliando constantemente mis conocimientos y habilidades.  
+- 💡 Me apasiona explorar tecnologías innovadoras y desarrollar soluciones.  
+- 🎓 Estudiando en Desarrollo de Software, ampliando mis conocimientos y habilidades.  
 - 🌱 Estoy enfocado en aprender más sobre desarrollo back-end e integración en la nube.  
-- ✍️ En mi tiempo libre, trabajo en pequeños proyectos, escribo artículos técnicos y mejoro mis habilidades.  
+- ✍️ En mi tiempo libre, trabajo en pequeños proyectos, mejorando mis habilidades.  
 - 💬 No dudes en contactarme para colaborar.  
-- ✉️ Puedes escribirme a [linaresmiguel2039@gmail.com]. ¡Haré todo lo posible por responderte pronto!  
+- ✉️ Puedes escribirme a [linaresmiguel2039@gmail.com].
 - 📄 Revisa mis repositorios en GitHub para ver mis proyectos y el trabajo que estoy desarrollando. ¡Siempre estoy abierto a comentarios y sugerencias!
   
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
