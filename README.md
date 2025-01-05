@@ -14,7 +14,7 @@ Soy un Desarrollo de Software con una sólida base en Python, JavaScript, SQL. D
 - ✍️ En mi tiempo libre, trabajo en pequeños proyectos, mejorando mis habilidades.  
 - 💬 No dudes en contactarme para colaborar.  
 - ✉️ Puedes escribirme a [linaresmiguel.work@gmail.com].
-- 📄 Revisa mis repositorios en GitHub para ver mis proyectos y el trabajo que estoy desarrollando. ¡Siempre estoy abierto a comentarios y sugerencias!
+- 📄 Revisa mis repositorios en GitHub para ver mis proyectos. ¡Siempre estoy abierto a comentarios y sugerencias!
   
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
