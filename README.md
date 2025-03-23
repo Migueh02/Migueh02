@@ -6,15 +6,12 @@
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35px></picture> *Sobre mi*
 
-Soy un Desarrollo de Software con una sólida base en Python, JavaScript, SQL. Disfruto aprender y crear proyectos innovadores, productivos y creativos que resuelvan problemas del mundo real
+- Desarrollador de Software con experiencia en Python, JavaScript y SQL, apasionado por crear soluciones innovadoras y aprender sobre back-end y la nube.
 
-- 💡 Me apasiona explorar tecnologías innovadoras y desarrollar soluciones.  
+<br>
+
 - 🎓 Estudiante de Desarrollo de Software, ampliando mis conocimientos.
-- 🌱 Enfocado en aprender más sobre desarrollo back-end e integración en la nube.  
-- ✍️ En mi tiempo libre, trabajo en pequeños proyectos, mejorando mis habilidades.  
-- 💬 No dudes en contactarme para colaborar.  
-- ✉️ Puedes escribirme a [linaresmiguel.work@gmail.com].
-- 📄 Revisa mis repositorios en GitHub para ver mis proyectos. ¡Siempre estoy abierto a comentarios y sugerencias!
+- 🌱 Enfocado en aprender más sobre desarrollo back-end e integración en la nube.
   
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
