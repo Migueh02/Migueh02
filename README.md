@@ -2,7 +2,7 @@
 
 # Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">, Soy Migueh!
 
-<img align="right" width=300px alt="Unicorn" src="peet.png" />
+<img align="right" width=300px alt="Unicorn" src="peet.webp" />
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35px></picture> *Sobre mi*
 
